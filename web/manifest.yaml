@@ -135,7 +135,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: devops460/web:v1
+        image: devops474/web:v1
         imagePullPolicy: Always
         volumeMounts:
         - name: nginx-conf

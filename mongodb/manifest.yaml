@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: devops460/mongodb:v1
+        image: devops474/mongodb:v1
         imagePullPolicy: Always
 ---
 apiVersion: v1

@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: catalogue
-        image: devops460/catalogue:v1
+        image: devops474/catalogue:v1
         imagePullPolicy: Always
         envFrom:
         - configMapRef:
